@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water
+  - Grass
+  - Boat
+  - RoadLine
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: water
+    uniqueID: 3342321697
+    locked: 0
+  - name: grass
+    uniqueID: 1027797613
+    locked: 0
+  - name: Items
+    uniqueID: 3311839481
+    locked: 0
+  - name: coins
+    uniqueID: 3978239093
+    locked: 0
+  - name: Player
+    uniqueID: 917272471
+    locked: 0
+  - name: Canvas
+    uniqueID: 26050649
+    locked: 0
